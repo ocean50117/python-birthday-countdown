@@ -13,8 +13,8 @@
 2. **修改你的生日資訊 (Edit your birthday)**
    打開 `main.py`，有兩個地方需要修改成你自己的生日：
    ```python
-   next_birthday = datetime.date(2027, 7, 3) # 你的下一次生日
+   next_birthday = datetime.date(2027, mm, dd) # 你的下一次生日
    
-   birth_year = 1994                          # 你的出生年份
-   birth_month = 7                            # 你的出生月份
-   birth_day = 3                              # 你的出生日期
+   birth_year = yyyy                          # 你的出生年份
+   birth_month = mm                            # 你的出生月份
+   birth_day = dd                              # 你的出生日期
